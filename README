@@ -4,5 +4,5 @@ Screenshot: http://perl.japh.se/devel/neverland-vim-theme/neverland.png
 
 Theme pack with various variations of the Neverland vim colorscheme.
 
-The main neverland.vim colorscheme also supports gvim, thanks to stack_underflow.
+Terminal (256 colors) and gVim.
 
